@@ -1,0 +1,120 @@
+//Created by Michael Sexton
+
+body {
+     font-weight: bold;
+     font-size: 20px;
+ }
+
+ .line {
+     display: block;
+     margin: 25px
+ }
+
+ .thing {
+     background-color: #4A0001;
+     font-weight: bold;
+     color: #ffffff;
+     line-height: 1.5;
+     border-radius: 50px;
+     padding: 5px;
+     padding-bottom: 60px;
+     text-align: center;
+     width: 70%;
+     font-size: 15px;
+     margin: auto;
+     border: 5px solid #ffffff;
+
+ }
+
+ .footer {
+     background-color: #ffffff;
+     color: black;
+     text-align: left;
+     width: 100%;
+     font-size: 15px;
+ }
+
+ li {
+     float: left;
+ }
+
+ li a {
+     display: block;
+     color: #666;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;
+ }
+
+ li a:hover:not(.active) {
+     background-color: #ddd;
+ }
+
+ li a.active {
+     color: white;
+     background-color: #4A0001;
+ }
+
+ a.link1:link {
+     color: white;
+     text-decoration: none;
+     font-size: 250%
+ }
+
+ a.link2:link {
+     color: white;
+     text-decoration: none;
+     font-size: 250%
+ }
+
+ a.link1:visited {
+     color: white;
+ }
+
+ a.link2:visited {
+     color: white;
+ }
+
+ form {
+     height: auto;
+     background-color: #4A0001;
+     font-weight: bold;
+     color: #ffffff;
+     line-height: 2.5;
+     border-radius: 20px;
+     padding: 5px;
+     text-align: center;
+     margin-left: 50px;
+     width: 400px;
+     margin-right: auto;
+     margin-left: auto;
+     border: 5px solid #ffffff;
+
+ }
+
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     border: 1px solid #e7e7e7;
+     background-color: #f3f3f3;
+ }
+
+ body {
+     font-weight: bold;
+
+ }
+
+ .dir {
+     font-weight: bold;
+     font-size: 20px;
+ }
+h1{
+ font-size:200%; 
+}
+ body {
+     font-weight: bold;
+     font-size: 20px;
+
+ }
